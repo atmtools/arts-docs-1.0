@@ -1,0 +1,7 @@
+*.gif
+*.html
+*.png
+Makefile
+Makefile.in
+doxygen.css
+formula.repository
